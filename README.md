@@ -21,8 +21,8 @@ Hi, I’m Wanestial an web developer learning JavaScript and Python, building my
 
 ### <h1> 📖 What I'm currently learning </h1>
 
-- Python
-- NodeJS
+- Python: writing cleaner scripts, building small tools, and understanding core concepts
+- NodeJS: learning backend basics, APIs, and server-side logic
 
 ---
 
