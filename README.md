@@ -2,8 +2,6 @@
 
 ### A passionate developer from around the world
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=WanestialOfficial&label=Profile views&color=0e75b6&style=flat" alt="WanestialOfficial" /> </p>
-
 - 🔭 I'm currently working on **Making Custom Websites with cool effect using react framework**
 
 - 🌱 I'm currently learning **Javascript , Python **
