@@ -19,6 +19,13 @@ Hi, I’m Wanestial an web developer learning JavaScript and Python, building my
 
 ---
 
+### <h1> 📖 What I'm currently learning </h1>
+
+- Python
+- NodeJS
+
+---
+
 ### <h1> 🤝 Support </h1>
 
 <p align="center">🎀 Contributions (<a href="https://guides.github.com/introduction/flow" title="GitHub flow">GitHub Flow</a>), 🔥 issues, and 🥮 feature requests are most welcome!</p>
