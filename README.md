@@ -22,7 +22,7 @@ Hi, I’m Wanestial an web developer learning JavaScript and Python, building my
 
 <p align="center">Made with ❤️ in India</p>
 
-<h2 align='center'>⚡️<i>Stay awesome!</i>⚡️</h2>
+
 
 
 
