@@ -12,7 +12,6 @@ Hi, I’m Wanestial an web developer learning JavaScript and Python, building my
 <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
 <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
 </p>
 
 <br />
@@ -34,11 +33,17 @@ Hi, I’m Wanestial an web developer learning JavaScript and Python, building my
 
 ### <h1> 🤝 Support </h1>
 
-<p align="center">🎀 Contributions (<a href="https://guides.github.com/introduction/flow" title="GitHub flow">GitHub Flow</a>), 🔥 issues, and 🥮 feature requests are most welcome!</p>
+<p align="center">
+  🎀 Contributions (<a href="https://guides.github.com/introduction/flow" title="GitHub Flow">GitHub Flow</a>), 🔥 issues, and 🥮 feature requests are always appreciated!
+</p>
 
-<p align="center">If you like my projects, Give them ⭐ and Share it with friends!</p>
+<p align="center">
+  If you find my projects helpful, feel free to ⭐ them and share with others!
+</p>
 
-<p align="center">Made with ❤️ in India</p>
+<p align="center">
+  Made with ❤️ in India
+</p>
 
 
 
